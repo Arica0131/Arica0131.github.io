@@ -1,3 +1,5 @@
-.lead {
+.lead, h1,h3 {
     font-family: "Noto Sans TC", sans-serif;
+}
+.div{ font-family: "Noto Sans TC", sans-serif;
 }
