@@ -3,9 +3,9 @@
 }
 .div{ font-family: "Noto Sans TC", sans-serif;
 }
-.bg-primary { background-color: rgb(42, 138, 165)!important;}
-.text-primary { --bs-text-opacity: 1; color: rgb(42, 138, 165)!important;}
+.bg-primary { background-color: rgb(153, 118, 145)!important;}
+.text-primary { --bs-text-opacity: 1; color: rgb(153, 118, 145)!important;}
 a {
-    color: rgb(42, 138, 165);
+    color: rgb(153, 118, 145);
     text-decoration: underline;
 }
